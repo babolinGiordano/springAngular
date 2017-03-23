@@ -1,0 +1,7 @@
+com/babo/model/User.class
+com/babo/config/BaboWebMvcConfig.class
+com/babo/config/BaboWebAppInitializer.class
+com/babo/dao/UserDao.class
+com/babo/service/UserService.class
+com/babo/dao/HibernateUserDao.class
+com/babo/web/UserController.class
